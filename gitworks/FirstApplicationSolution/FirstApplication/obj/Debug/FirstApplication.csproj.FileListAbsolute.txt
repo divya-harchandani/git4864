@@ -1,0 +1,7 @@
+c:\users\owner\source\repos\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.csprojAssemblyReference.cache
+c:\users\owner\source\repos\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.exe.config
+c:\users\owner\source\repos\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.exe
+c:\users\owner\source\repos\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.pdb
+c:\users\owner\source\repos\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.exe
+c:\users\owner\source\repos\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.pdb

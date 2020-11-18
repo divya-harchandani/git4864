@@ -1,0 +1,14 @@
+c:\users\owner\source\repos\FirstApplicationSolution\SecondApplication\bin\Debug\SecondApplication.exe.config
+c:\users\owner\source\repos\FirstApplicationSolution\SecondApplication\bin\Debug\SecondApplication.exe
+c:\users\owner\source\repos\FirstApplicationSolution\SecondApplication\bin\Debug\SecondApplication.pdb
+c:\users\owner\source\repos\FirstApplicationSolution\SecondApplication\obj\Debug\SecondApplication.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\FirstApplicationSolution\SecondApplication\obj\Debug\SecondApplication.exe
+c:\users\owner\source\repos\FirstApplicationSolution\SecondApplication\obj\Debug\SecondApplication.pdb
+c:\users\owner\source\repos\FirstApplicationSolution\SecondApplication\obj\Debug\SecondApplication.csprojAssemblyReference.cache
+D:\divya\LTI Training\DOTNET\repos\FirstApplicationSolution\SecondApplication\bin\Debug\SecondApplication.exe.config
+D:\divya\LTI Training\DOTNET\repos\FirstApplicationSolution\SecondApplication\bin\Debug\SecondApplication.exe
+D:\divya\LTI Training\DOTNET\repos\FirstApplicationSolution\SecondApplication\bin\Debug\SecondApplication.pdb
+D:\divya\LTI Training\DOTNET\repos\FirstApplicationSolution\SecondApplication\obj\Debug\SecondApplication.csprojAssemblyReference.cache
+D:\divya\LTI Training\DOTNET\repos\FirstApplicationSolution\SecondApplication\obj\Debug\SecondApplication.csproj.CoreCompileInputs.cache
+D:\divya\LTI Training\DOTNET\repos\FirstApplicationSolution\SecondApplication\obj\Debug\SecondApplication.exe
+D:\divya\LTI Training\DOTNET\repos\FirstApplicationSolution\SecondApplication\obj\Debug\SecondApplication.pdb
